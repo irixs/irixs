@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![irixs's github stats](https://github-readme-stats.vercel.app/api?username=irixs&theme=material-palenight&show_icons=true&count_private=true)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![irixs's github stats](https://github-readme-stats.vercel.app/api?username=irixs&theme=material-palenight&show_icons=true&count_private=true)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irixs&layout=compact&theme=material-palenight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
